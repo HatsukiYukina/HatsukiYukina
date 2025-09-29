@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=HatsukiYukina&show_icons=true&theme=transparent&hide_border=true"></img></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsukiYukina&layout=compact&theme=transparent&hide_border=true"></img></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsukiYukina"></img></td>
     </tr>
   </tbody>
 </table>
@@ -19,3 +19,4 @@
 主要是写c的，java，go，javascript/typescript都能写，别指望太好，前端学过react<br/>
 如果您有高见，请找qq:2272353474和我联系捏~<br/>
 </span>
+
